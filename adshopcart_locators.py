@@ -1,0 +1,1 @@
+adshopcart_URL = 'https://advantageonlineshopping.com/#/'
